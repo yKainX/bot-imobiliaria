@@ -1,0 +1,13 @@
+{
+  "sales": [
+    {
+      "vendidoPara": "1231231",
+      "valorInterior": 1231231231,
+      "temTranca": "sim",
+      "comGaragem": "nao",
+      "vendidoPor": "Kain",
+      "timestamp": "2025-09-28T11:15:40.235Z"
+    }
+  ],
+  "report_start_date": "2025-09-28T11:15:49.976Z"
+}
