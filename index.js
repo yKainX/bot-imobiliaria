@@ -3,7 +3,7 @@ const fs = require('fs');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 
-const token = 'process.env.TOKEN'; 
+const token = 'process.env.DISCORD_TOKEN'; 
 const clientId = '1421788914359734352'; 
 const guildId = '1421792890094489662'; 
 const channelId = '1421792929999093820';
@@ -348,3 +348,4 @@ async function showVendaModal(interaction) {
 }
 
 client.login(token);
+
